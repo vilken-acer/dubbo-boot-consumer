@@ -1,0 +1,8 @@
+# gitignore files
+.idea
+*.iml
+gradle/*
+.idea/*
+build/*
+out
+gen
